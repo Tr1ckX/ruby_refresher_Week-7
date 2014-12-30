@@ -9,6 +9,6 @@ Ruby refresher
 
 <h5> Seventh week Challenge at [Makers Academy](http://www.makersacademy.com) 
 
-After the JS weeks a little ruby refreshser before we start Rails.
+After the JS weeks a little ruby refresher before we start Rails.
 
 You can find this week's projects [here](https://github.com/Tr1ckX/SocketIO_chat_Week-7) and [here](https://github.com/Tr1ckX/node_express_Week-7)
